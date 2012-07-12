@@ -1,3 +1,17 @@
+@font-face {
+    font-family: 'MrsEavesMediumItalic';
+    src: url('../fonts/MrsEavesItalic.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MrsEavesPetiteCapsRegular';
+    src: url('../fonts/MrsEavesPetiteCapsRegular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
 	background-image: url('../images/background.png');
 	background-repeat: repeat;
@@ -253,6 +267,4 @@ body {
 	font-size: 11pt;
 	color: #3A3938;
 	margin-top: -15px;
-
-	
 }
