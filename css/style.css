@@ -1,0 +1,258 @@
+body {
+	background-image: url('../images/background.png');
+	background-repeat: repeat;
+	text-align: center;
+}
+
+#container {
+/*
+	width: 950px;
+	border: solid red 1px;
+	margin: 0 auto;
+*/
+	position: relative;
+	margin:0;
+	padding:0;
+/* 	border: solid red 1px; */
+	width: 950px;
+	height: auto;
+	margin: 0 auto;
+
+}
+
+
+#names {
+	position: relative;
+	margin: 0 auto;
+	padding-top: 30px;
+}
+
+#navbar {
+	position:absolute;
+	right:0px;
+}
+
+#navbar ul {
+	list-style-type:none;
+	width:auto;
+	height:20px;
+	margin-top: -28px;
+
+}
+
+#navbar ul li {
+	float:left;
+	margin-right: 70px;
+}
+
+#navbar ul li a {
+	font-weight: bold;
+	height:20px;
+	padding-top:0px;
+	display:block;
+	text-decoration:none;
+    font-family: 'MrsEavesPetiteCapsRegular';
+    font-size:8pt;
+	color:#42283F;
+	cursor:pointer;
+}
+
+/* --------------------------welcome page---------------------------------- */
+
+#welcome_photo {
+	background-image: url('../images/welcome_picture.png');
+	width: 533px;
+	height: 367px;
+	margin-top: 10px;
+	margin: 10px auto;	
+}
+
+/* ------------------------ engagement ----------------------------------- */
+#engagement_photo {
+	background-image: url('../images/engagement_photo.png');
+	width: 531px;
+	height:312px;
+	margin-top: 10px;
+	margin: 15px auto;
+	
+}
+
+#meeting {
+	text-align: justify;
+	width: 520px;
+	margin-left: 220px;
+/* 	line-height: -10px; */
+}
+
+#meeting h3 {
+    font-family: 'MrsEavesPetiteCapsRegular';
+    font-size: 12pt;
+    color: #42283F;
+	
+}
+
+#meeting p {
+	font-family: 'MrsEavesMediumItalic';
+	font-size: 11pt;
+	color: #3A3938;
+	
+}
+
+/* ---------------------- wedding details -------------------------------------*/
+
+#venue_photo {
+	background-image: url('../images/fairmont.png');
+	width: 531px;
+	height:312px;
+	margin-top: 0px;
+	margin: 15px auto;
+	padding-bottom: 5px;
+	background-repeat: no-repeat;
+	
+}
+
+
+
+#venue {
+	text-align: justify;
+	width: 520px;
+	margin-left: 220px;
+
+}
+
+#venue h3 {
+    font-family: 'MrsEavesPetiteCapsRegular';
+    font-size: 12pt;
+    color: #42283F;
+    margin-top: -20px;
+	
+}
+
+#venue p {
+	font-family: 'MrsEavesMediumItalic';
+	font-size: 11pt;
+	color: #3A3938;
+	margin-top: -10px;
+	padding-bottom: 10px;
+
+	
+	
+}
+
+/* ---------------------- ceremony details -------------------------------------*/
+#ceremony_photo {
+	background-image: url('../images/ceremony.png');
+	width: 531px;
+	height:312px;
+	margin-top: 10px;
+	margin: 15px auto;
+	
+}
+
+#ceremony {
+	text-align: justify;
+	width: 520px;
+	margin-left: 220px;
+	margin-top: -15px;
+
+}
+
+#ceremony h3 {
+    font-family: 'MrsEavesPetiteCapsRegular';
+    font-size: 12pt;
+    color: #42283F;
+
+	
+}
+
+#ceremony p {
+	font-family: 'MrsEavesMediumItalic';
+	font-size: 11pt;
+	margin-top: -15px;
+	color: #3A3938;
+	padding-bottom: 10px;
+
+}
+
+/* ---------------------- reception details -------------------------------------*/
+#reception_photo {
+	background-image: url('../images/reception.png');
+	width: 531px;
+	height:312px;
+	margin-top: 10px;
+	margin: 15px auto;
+	
+}
+
+#reception {
+	text-align: justify;
+	width: 520px;
+	margin-left: 220px;
+	margin-top: -15px;
+}
+
+#reception h3 {
+    font-family: 'MrsEavesPetiteCapsRegular';
+    font-size: 12pt;
+    color: #42283F;
+	
+}
+
+#reception p {
+	font-family: 'MrsEavesMediumItalic';
+	font-size: 11pt;
+	color: #3A3938;
+	margin-top: -15px;
+
+	
+}
+
+/* ---------------------- rsvp -------------------------------------*/
+
+#texthere {
+	text-align: justify;
+	width: 520px;
+	margin-left: 220px;
+}
+
+#texthere h3 {
+    font-family: 'MrsEavesPetiteCapsRegular';
+    font-size: 12pt;
+    color: #42283F;
+	
+}
+
+#texthere p {
+	font-family: 'MrsEavesMediumItalic';
+	font-size: 11pt;
+	color: #3A3938;
+	margin-top: -15px;
+
+	
+}
+
+/* ---------------------- registry -------------------------------------*/
+
+#registry_photo {
+	background-image: url('../images/logo_bed_bath_beyond.png');
+	text-align: justify;
+	width: 400px;
+	height: 200px;
+	margin: 15px auto;
+}
+
+#texthere h3 {
+    font-family: 'MrsEavesPetiteCapsRegular';
+    font-size: 12pt;
+    color: #42283F;
+	
+}
+
+#texthere p {
+	font-family: 'MrsEavesMediumItalic';
+	font-size: 11pt;
+	color: #3A3938;
+	margin-top: -15px;
+
+	
+}
