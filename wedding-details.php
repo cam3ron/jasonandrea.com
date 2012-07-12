@@ -9,7 +9,7 @@
 	<body>
 		
 		<div id="container">
-                        <?php include 'includes/header.inc'; ?><!-- header -->
+                        <?php include 'includes/header.inc'; ?>
 			
 			<div id="venue_photo"></div><!-- welcome_photo -->
 			<div id="venue">

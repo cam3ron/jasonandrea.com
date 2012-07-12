@@ -46,20 +46,20 @@ body {
 
 #navbar {
 	position:absolute;
-	right:0px;
+	left:85px;
 }
 
 #navbar ul {
 	list-style-type:none;
-	width:auto;
+	width:950px;
 	height:20px;
-	margin-top: -28px;
+	margin-top: -27px;
 
 }
 
 #navbar ul li {
 	float:left;
-	margin-right: 70px;
+	margin-right: 44px;
 }
 
 #navbar ul li a {
