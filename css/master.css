@@ -16,6 +16,9 @@ body {
 	background-image: url('../images/background.png');
 	background-repeat: repeat;
 	text-align: center;
+        font-family: 'MrsEavesMediumItalic';
+        font-size: 14pt;
+        color: #3A3938;
 }
 
 #container {
@@ -122,16 +125,12 @@ body {
 	margin: 15px auto;
 	padding-bottom: 5px;
 	background-repeat: no-repeat;
-	
 }
-
-
 
 #venue {
 	text-align: justify;
 	width: 520px;
 	margin-left: 220px;
-
 }
 
 #venue h3 {
@@ -139,7 +138,6 @@ body {
     font-size: 12pt;
     color: #42283F;
     margin-top: -20px;
-	
 }
 
 #venue p {
@@ -148,9 +146,6 @@ body {
 	color: #3A3938;
 	margin-top: -10px;
 	padding-bottom: 10px;
-
-	
-	
 }
 
 /* ---------------------- ceremony details -------------------------------------*/
