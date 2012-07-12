@@ -6,11 +6,152 @@
 }
 
 @font-face {
+    font-family: 'MrsEavesBold';
+    src: url('../fonts/MrsEavesBold.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MrsEavesBoldBold';
+    src: url('../fonts/MrsEavesBoldBold.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MrsEavesFractions';
+    src: url('../fonts/MrsEavesFractions.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MrsEavesFractionsFractions';
+    src: url('../fonts/MrsEavesFractionsFractions.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MrsEavesFractionsRegular';
+    src: url('../fonts/MrsEavesFractionsRegular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MrsEavesItalic';
+    src: url('../fonts/MrsEavesItalic.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MrsEavesItalicItalic';
+    src: url('../fonts/MrsEavesItalicItalic.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MrsEavesJustLig-Bold';
+    src: url('../fonts/MrsEavesJustLig-Bold.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MrsEavesJustLig-Italic';
+    src: url('../fonts/MrsEavesJustLig-Italic.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MrsEavesJustLigBold';
+    src: url('../fonts/MrsEavesJustLigBold.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MrsEavesJustLigItalic';
+    src: url('../fonts/MrsEavesJustLigItalic.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MrsEavesJustLigRegular';
+    src: url('../fonts/MrsEavesJustLigRegular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MrsEavesJustLigRoman';
+    src: url('../fonts/MrsEavesJustLigRoman.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MrsEavesPetiteCaps';
+    src: url('../fonts/MrsEavesPetiteCaps.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MrsEavesPetiteCapsPetiteCap';
+    src: url('../fonts/MrsEavesPetiteCapsPetiteCap.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
     font-family: 'MrsEavesPetiteCapsRegular';
     src: url('../fonts/MrsEavesPetiteCapsRegular.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
+
+@font-face {
+    font-family: 'MrsEavesRoman';
+    src: url('../fonts/MrsEavesRoman.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MrsEavesRomanRegular';
+    src: url('../fonts/MrsEavesRomanRegular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MrsEavesSmallCaps';
+    src: url('../fonts/MrsEavesSmallCaps.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MrsEavesSmallCapsRegular';
+    src: url('../fonts/MrsEavesSmallCapsRegular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MrsEavesSmallCapsSmallCaps';
+    src: url('../fonts/MrsEavesSmallCapsSmallCaps.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 
 body {
 	background-image: url('../images/background.png');
@@ -110,8 +251,8 @@ body {
 }
 
 #meeting p {
-	font-family: 'MrsEavesMediumItalic';
-	font-size: 14pt;
+	font-family: 'MrsEavesSmallCapsRegular';
+	font-size: 13pt;
 	color: #3A3938;
 	
 }
