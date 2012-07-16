@@ -290,6 +290,26 @@ body {
 	padding-bottom: 10px;
 }
 
+	#accommodation {
+		text-align: left;
+		margin-left: 200px;
+		width: 600px;
+		margin-top: 30px;
+	}
+	
+	#accommodation h3 {
+    	font-family: 'MrsEavesPetiteCapsRegular';
+    	font-size: 12pt;
+    	color: #42283F;
+	}
+	
+	#accommodation p {
+		font-family: 'MrsEavesMediumItalic';
+		font-size: 12pt;
+		color: #3A3938;
+		margin-top: -15px;
+	}
+
 /* ---------------------- ceremony details -------------------------------------*/
 #ceremony_photo {
 	background-image: url('../images/ceremony.png');
@@ -384,24 +404,32 @@ body {
 
 /* ---------------------- registry -------------------------------------*/
 
-#registry_photo {
-	background-image: url('../images/logo_bed_bath_beyond.png');
-	text-align: justify;
-	width: 400px;
-	height: 200px;
-	margin: 15px auto;
+#registry {
+	text-align: left;
+	margin-left: 200px;
+	width: 600px;
+	margin-top: 30px;
 }
-
-#texthere h3 {
-    font-family: 'MrsEavesPetiteCapsRegular';
-    font-size: 12pt;
-    color: #42283F;
 	
+#registry h3 {
+	font-family: 'MrsEavesPetiteCapsRegular';
+	font-size: 12pt;
+	color: #42283F;
 }
-
-#texthere p {
-	font-family: 'MrsEavesMediumItalic';
-	font-size: 11pt;
-	color: #3A3938;
-	margin-top: -15px;
-}
+	
+	#registry p {
+		font-family: 'MrsEavesMediumItalic';
+		font-size: 11pt;
+		color: #3A3938;
+		margin-top: -15px;
+	}
+	
+	#registry_photo {
+		background-image: url('../images/logo_bed_bath_beyond.png');
+		width: 410px;
+		height: 150px;
+		margin-top: 0px;
+		margin: 15px auto;
+		padding-bottom: 5px;
+		background-repeat: no-repeat;
+	}
