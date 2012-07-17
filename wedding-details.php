@@ -11,28 +11,7 @@
 
 <body>
     <div id="container">
-        <div id="header">
-            <div id="names">
-                <img src="images/names.png" height="120" width="715" />
-            </div><!-- names -->
-
-            <div id="navbar">
-                <ul>
-                    <li><a href="index.html">WELCOME</a></li>
-
-                    <li><a href="engagement.html">ENGAGMENT STORY</a></li>
-
-                    <li><a href="weddingdetails.html">WEDDING DETAILS</a></li>
-
-                    <li><a href="rsvp.html">RSVP</a></li>
-
-                    <li><a href="">PHOTO GALLERY</a></li>
-
-                    <li><a href="">REGISTRY</a></li>
-                </ul>
-            </div><!-- navbar -->
-        </div><!-- header -->
-
+        <?php include 'includes/header.inc'; ?>
         <div id="venue_photo"></div><!-- welcome_photo -->
 
         <div id="venue">
