@@ -406,20 +406,20 @@ body {
 
 #registry {
 	text-align: left;
-	margin-left: 200px;
-	width: 600px;
+	margin-left: 277px;
+	width: 400px;
 	margin-top: 30px;
 }
 	
 #registry h3 {
 	font-family: 'MrsEavesPetiteCapsRegular';
-	font-size: 12pt;
+	font-size: 15pt;
 	color: #42283F;
 }
 	
 	#registry p {
 		font-family: 'MrsEavesMediumItalic';
-		font-size: 11pt;
+		font-size: 13pt;
 		color: #3A3938;
 		margin-top: -15px;
 	}
