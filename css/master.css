@@ -185,6 +185,14 @@ body {
 	padding-top: 30px;
 }
 
+/*firefox only*/
+#navbar ul li a, x:-moz-any-link {padding-right:8px;}
+#navbar ul, x:-moz-any-link {margin-top:-29px;}
+
+#navbar ul, x:-moz-any-link {
+    margin-top: -29px !important;
+}
+
 #navbar {
 	position:absolute;
 	left:86px;
