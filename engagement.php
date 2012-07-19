@@ -28,7 +28,8 @@
     <div id="container">
         <?php include 'includes/header.inc'; ?>
 
-        <div id="engagement_photo"></div>
+<div id="body">
+        <div id="engagement_photo"><img src="images/engagement_photo.png" /></div>
 
         <div id="meeting">
             <h3>HOW WE MET</h3>
@@ -48,6 +49,7 @@
                 <b>[Jason]</b><br />
                 So- at this point I was super nervous and I wasn't sure when I should propose as the plans were not going as "planned." I started to talk about how stoked I was that I met her and that God had been so good to us. I started to discuss one of our first dates where I brought her to a similar spot on the coast and we watched the sunset. This day was definitely nothing like that... It was so cloudy that you couldn't even tell it was 3pm. I realized that I was just filling stuff to talk about because I was so nervous. Andrea started talking about how she was excited to try on Cara's dress (she ended up using one of my good friend's wife's dress). She mentioned immediately following that she couldn't because we weren't engaged. I then said that we should make a firm date, but that I had a question I first needed to ask her. I got the ring out of my pocket and turned around and knelt on the rock in front of her and popped the question! She immediately snatched the ring from me, put it on, and started crying. It was adorable!!! She was so cute. That was it! we are getting married. Lucky! you got invited! or maybe not.</p>
             </div><!-- meeting -->
+         </div>
         </div><!-- container -->
     </div>
 </body>

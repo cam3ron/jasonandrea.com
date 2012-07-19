@@ -162,6 +162,20 @@ body {
         color: #3A3938;
 }
 
+#body {
+        text-align: center;
+        width: 715px;
+        margin: 15px auto;
+}
+
+#body img {
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -khtml-border-radius: 10px;
+        border-radius: 10px;
+        border-width: 5px;
+        border: solid white 5px;	
+}
 
 #header {
 	text-align: center;
@@ -236,16 +250,13 @@ body {
 /* --------------------------welcome page---------------------------------- */
 
 #welcome_photo {
-	background-image: url('../images/welcome_picture.png');
-	width: 533px;
-	height: 367px;
-	margin-top: 10px;
-	margin: 10px auto;	
+        text-align: center;
+        width: 715px;
+        margin: 15px auto;
 }
 
 /* ------------------------ engagement ----------------------------------- */
 #engagement_photo {
-	background-image: url('../images/engagement_photo.png');
 	width: 531px;
 	height:312px;
 	margin-top: 10px;
@@ -256,7 +267,7 @@ body {
 #meeting {
 	text-align: justify;
 	width: 520px;
-	margin-left: 220px;
+	margin-left: 105px;
 /* 	line-height: -10px; */
 }
 
@@ -277,7 +288,6 @@ body {
 /* ---------------------- wedding details -------------------------------------*/
 
 #venue_photo {
-	background-image: url('../images/fairmont.png');
 	width: 531px;
 	height:312px;
 	margin-top: 0px;
@@ -289,7 +299,7 @@ body {
 #venue {
 	text-align: justify;
 	width: 520px;
-	margin-left: 220px;
+	margin-left: 105px;
 }
 
 #venue h3 {
@@ -309,7 +319,7 @@ body {
 
 	#accommodation {
 		text-align: left;
-		margin-left: 200px;
+		margin-left: 105px;
 		width: 600px;
 		margin-top: 30px;
 	}
@@ -329,7 +339,6 @@ body {
 
 /* ---------------------- ceremony details -------------------------------------*/
 #ceremony_photo {
-	background-image: url('../images/ceremony.png');
 	width: 531px;
 	height:312px;
 	margin-top: 10px;
@@ -340,7 +349,7 @@ body {
 #ceremony {
 	text-align: justify;
 	width: 520px;
-	margin-left: 220px;
+	margin-left: 105px;
 	margin-top: -15px;
 
 }
@@ -364,7 +373,6 @@ body {
 
 /* ---------------------- reception details -------------------------------------*/
 #reception_photo {
-	background-image: url('../images/reception.png');
 	width: 531px;
 	height:312px;
 	margin-top: 10px;
@@ -375,7 +383,7 @@ body {
 #reception {
 	text-align: justify;
 	width: 520px;
-	margin-left: 220px;
+	margin-left: 105px;
 	margin-top: -15px;
 }
 
@@ -421,7 +429,6 @@ body {
 #photo-gallery {
 	text-align: center;
 	width: 715px;
-/*	margin-left: 220px; */
 	margin: 0px auto;
 }
 
@@ -457,7 +464,7 @@ body {
 
 #registry {
 	text-align: left;
-	margin-left: 277px;
+	margin-left: 275px;
 	width: 400px;
 	margin-top: 30px;
 }
@@ -476,9 +483,8 @@ body {
 }
 	
 #registry_photo {
-	background-image: url('../images/logo_bed_bath_beyond.png');
-	width: 410px;
-	height: 150px;
+	width: 300px;
+	height: 99px;
 	margin-top: 0px;
 	margin: 15px auto;
 	padding-bottom: 5px;

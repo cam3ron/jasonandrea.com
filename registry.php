@@ -27,8 +27,7 @@
 <body>
     <div id="container">
         <?php include 'includes/header.inc'; ?>
-
-        <div id="registry_photo"></div><!-- registry_photo -->
+        <div id="registry_photo"><img src="images/logo_bed_bath_beyond.png" /></div><!-- registry_photo -->
 
         <div id="registry">
             <h3>We are registered at Bed Bath and Beyond.</h3>

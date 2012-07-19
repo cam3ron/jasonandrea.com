@@ -27,8 +27,8 @@
 <body>
     <div id="container">
         <?php include 'includes/header.inc'; ?>
-
-        <div id="venue_photo"></div><!-- welcome_photo -->
+	<div id="body">
+        <div id="venue_photo"><img src="images/fairmont.png" /></div><!-- welcome_photo -->
 
         <div id="venue">
             <h3>THE VENUE</h3>
@@ -38,7 +38,7 @@
             (415) 772-5000</p>
         </div><!-- venue -->
 
-        <div id="ceremony_photo"></div><!-- ceremony photo -->
+        <div id="ceremony_photo"><img src="images/ceremony.png" /></div><!-- ceremony photo -->
 
         <div id="ceremony">
             <h3>THE CEREMONY</h3>
@@ -46,7 +46,7 @@
             <p>Rooftop Gardens</p>
         </div><!-- ceremony -->
 
-        <div id="reception_photo"></div><!-- reception photo -->
+        <div id="reception_photo"><img src="images/reception.png" /></div><!-- reception photo -->
 
         <div id="reception">
             <h3>THE RECEPTION</h3>
@@ -102,6 +102,7 @@
 
             <h3>Click <a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&amp;eventID=9716061">here</a> to make a reservation!</h3>
         </div>
+    </div><!-- body -->
     </div><!-- container -->
 </body>
 </html>
