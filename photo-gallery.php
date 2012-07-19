@@ -22,6 +22,11 @@
 
     //]]>
     </script>
+    <script src="js/jquery-1.7.2.min.js" type="text/javascript">
+</script>
+    <script src="js/lightbox.js" type="text/javascript">
+</script>
+    <link href="css/lightbox.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
@@ -29,7 +34,7 @@
         <?php include 'includes/header.inc'; ?>
 
         <div id="texthere">
-            Coming soon!
+            <a href="images/Andrea-Jason_ENG-WEB-7850.jpg" rel="lightbox[roadtrip]">image #1</a>
         </div><!-- welcome_photo -->
     </div><!-- container -->
 </body>
