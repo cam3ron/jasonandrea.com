@@ -33,8 +33,21 @@
     <div id="container">
         <?php include 'includes/header.inc'; ?>
 
-        <div id="texthere">
-            <a href="images/Andrea-Jason_ENG-WEB-7850.jpg" rel="lightbox[roadtrip]">image #1</a>
+        <div id="photo-gallery">
+            <a href="images/jason_and_andrea_01.jpg" rel="lightbox[roadtrip]">image #1</a><br />
+            <a href="images/jason_and_andrea_02.jpg" rel="lightbox[roadtrip]">image #2</a><br />
+            <a href="images/jason_and_andrea_03.jpg" rel="lightbox[roadtrip]">image #3</a><br />
+            <a href="images/jason_and_andrea_04.jpg" rel="lightbox[roadtrip]">image #4</a><br />
+            <a href="images/jason_and_andrea_05.jpg" rel="lightbox[roadtrip]">image #5</a><br />
+            <a href="images/jason_and_andrea_06.jpg" rel="lightbox[roadtrip]">image #6</a><br />
+            <a href="images/jason_and_andrea_07.jpg" rel="lightbox[roadtrip]">image #7</a><br />
+            <a href="images/jason_and_andrea_08.jpg" rel="lightbox[roadtrip]">image #8</a><br />
+            <a href="images/jason_and_andrea_09.jpg" rel="lightbox[roadtrip]">image #9</a><br />
+            <a href="images/jason_and_andrea_10.jpg" rel="lightbox[roadtrip]">image #10</a><br />
+            <a href="images/jason_and_andrea_11.jpg" rel="lightbox[roadtrip]">image #11</a><br />
+            <a href="images/jason_and_andrea_12.jpg" rel="lightbox[roadtrip]">image #12</a><br />
+            <a href="images/jason_and_andrea_13.jpg" rel="lightbox[roadtrip]">image #13</a><br />
+            <a href="images/jason_and_andrea_14.jpg" rel="lightbox[roadtrip]">image #14</a>
         </div><!-- welcome_photo -->
     </div><!-- container -->
 </body>

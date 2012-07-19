@@ -398,7 +398,6 @@ body {
     font-family: 'MrsEavesPetiteCapsRegular';
     font-size: 12pt;
     color: #42283F;
-	
 }
 
 #texthere p {
@@ -406,8 +405,27 @@ body {
 	font-size: 11pt;
 	color: #3A3938;
 	margin-top: -15px;
+}
 
-	
+/* ---------------------- photo-gallery -------------------------------------*/
+
+#photo-gallery {
+	text-align: justify;
+	width: 520px;
+	margin-left: 220px;
+}
+
+#photo-gallery h3 {
+    font-family: 'MrsEavesPetiteCapsRegular';
+    font-size: 12pt;
+    color: #42283F;
+}
+
+#photo-gallery p {
+	font-family: 'MrsEavesMediumItalic';
+	font-size: 11pt;
+	color: #3A3938;
+	margin-top: -15px;
 }
 
 /* ---------------------- registry -------------------------------------*/
@@ -425,19 +443,19 @@ body {
 	color: #42283F;
 }
 	
-	#registry p {
-		font-family: 'MrsEavesMediumItalic';
-		font-size: 13pt;
-		color: #3A3938;
-		margin-top: -15px;
-	}
+#registry p {
+	font-family: 'MrsEavesMediumItalic';
+	font-size: 13pt;
+	color: #3A3938;
+	margin-top: -15px;
+}
 	
-	#registry_photo {
-		background-image: url('../images/logo_bed_bath_beyond.png');
-		width: 410px;
-		height: 150px;
-		margin-top: 0px;
-		margin: 15px auto;
-		padding-bottom: 5px;
-		background-repeat: no-repeat;
-	}
+#registry_photo {
+	background-image: url('../images/logo_bed_bath_beyond.png');
+	width: 410px;
+	height: 150px;
+	margin-top: 0px;
+	margin: 15px auto;
+	padding-bottom: 5px;
+	background-repeat: no-repeat;
+}
