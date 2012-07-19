@@ -34,20 +34,13 @@
         <?php include 'includes/header.inc'; ?>
 
         <div id="photo-gallery">
-            <a href="images/jason_and_andrea_01.jpg" rel="lightbox[roadtrip]"><img src="images/jason_and_andrea_01_thumb.jpg" /></a>
-            <a href="images/jason_and_andrea_02.jpg" rel="lightbox[roadtrip]"><img class="right" src="images/jason_and_andrea_02_thumb.jpg" /></a><br />
-            <a href="images/jason_and_andrea_03.jpg" rel="lightbox[roadtrip]"><img src="images/jason_and_andrea_03_thumb.jpg" /></a>
-            <a href="images/jason_and_andrea_04.jpg" rel="lightbox[roadtrip]"><img class="right" src="images/jason_and_andrea_04_thumb.jpg" /></a><br />
-            <a href="images/jason_and_andrea_05.jpg" rel="lightbox[roadtrip]"><img src="images/jason_and_andrea_05_thumb.jpg" /></a>
-            <a href="images/jason_and_andrea_06.jpg" rel="lightbox[roadtrip]"><img class="right" src="images/jason_and_andrea_06_thumb.jpg" /></a><br />
-            <a href="images/jason_and_andrea_07.jpg" rel="lightbox[roadtrip]"><img src="images/jason_and_andrea_07_thumb.jpg" /></a>
-            <a href="images/jason_and_andrea_08.jpg" rel="lightbox[roadtrip]"><img class="right" src="images/jason_and_andrea_08_thumb.jpg" /></a><br />
-            <a href="images/jason_and_andrea_09.jpg" rel="lightbox[roadtrip]"><img src="images/jason_and_andrea_09_thumb.jpg" /></a>
-            <a href="images/jason_and_andrea_10.jpg" rel="lightbox[roadtrip]"><img class="right" src="images/jason_and_andrea_10_thumb.jpg" /></a><br />
-            <a href="images/jason_and_andrea_11.jpg" rel="lightbox[roadtrip]"><img src="images/jason_and_andrea_11_thumb.jpg" /></a>
-            <a href="images/jason_and_andrea_12.jpg" rel="lightbox[roadtrip]"><img class="right" src="images/jason_and_andrea_12_thumb.jpg" /></a><br />
-            <a href="images/jason_and_andrea_13.jpg" rel="lightbox[roadtrip]"><img src="images/jason_and_andrea_13_thumb.jpg" /></a>
-            <a href="images/jason_and_andrea_14.jpg" rel="lightbox[roadtrip]"><img class="right" src="images/jason_and_andrea_14_thumb.jpg" /></a><br />
+            <a href="images/jason_and_andrea_01.jpg" rel="lightbox[roadtrip]"><img src="images/jason_and_andrea_01_thumb.jpg" /></a> <a href="images/jason_and_andrea_02.jpg" rel="lightbox[roadtrip]"><img class="right" src="images/jason_and_andrea_02_thumb.jpg" /></a><br />
+            <a href="images/jason_and_andrea_03.jpg" rel="lightbox[roadtrip]"><img src="images/jason_and_andrea_03_thumb.jpg" /></a> <a href="images/jason_and_andrea_04.jpg" rel="lightbox[roadtrip]"><img class="right" src="images/jason_and_andrea_04_thumb.jpg" /></a><br />
+            <a href="images/jason_and_andrea_05.jpg" rel="lightbox[roadtrip]"><img src="images/jason_and_andrea_05_thumb.jpg" /></a> <a href="images/jason_and_andrea_06.jpg" rel="lightbox[roadtrip]"><img class="right" src="images/jason_and_andrea_06_thumb.jpg" /></a><br />
+            <a href="images/jason_and_andrea_07.jpg" rel="lightbox[roadtrip]"><img src="images/jason_and_andrea_07_thumb.jpg" /></a> <a href="images/jason_and_andrea_08.jpg" rel="lightbox[roadtrip]"><img class="right" src="images/jason_and_andrea_08_thumb.jpg" /></a><br />
+            <a href="images/jason_and_andrea_09.jpg" rel="lightbox[roadtrip]"><img src="images/jason_and_andrea_09_thumb.jpg" /></a> <a href="images/jason_and_andrea_10.jpg" rel="lightbox[roadtrip]"><img class="right" src="images/jason_and_andrea_10_thumb.jpg" /></a><br />
+            <a href="images/jason_and_andrea_11.jpg" rel="lightbox[roadtrip]"><img src="images/jason_and_andrea_11_thumb.jpg" /></a> <a href="images/jason_and_andrea_12.jpg" rel="lightbox[roadtrip]"><img class="right" src="images/jason_and_andrea_12_thumb.jpg" /></a><br />
+            <a href="images/jason_and_andrea_13.jpg" rel="lightbox[roadtrip]"><img src="images/jason_and_andrea_13_thumb.jpg" /></a> <a href="images/jason_and_andrea_14.jpg" rel="lightbox[roadtrip]"><img class="right" src="images/jason_and_andrea_14_thumb.jpg" /></a><br />
         </div><!-- welcome_photo -->
     </div><!-- container -->
 </body>

@@ -28,7 +28,9 @@
     <div id="container">
         <?php include 'includes/header.inc'; ?>
 
-        <div id="body"><img src="images/welcome_picture.png" /></div><!-- welcome_photo -->
+        <div id="body">
+            <img src="images/welcome_picture.png" alt="Jason and Andrea" />
+        </div><!-- welcome_photo -->
     </div><!-- container -->
 </body>
 </html>
