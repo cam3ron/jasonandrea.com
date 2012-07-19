@@ -34,8 +34,8 @@
         <?php include 'includes/header.inc'; ?>
 
         <div id="photo-gallery">
-            <a href="images/jason_and_andrea_01.jpg" rel="lightbox[roadtrip]">image #1</a><br />
-            <a href="images/jason_and_andrea_02.jpg" rel="lightbox[roadtrip]">image #2</a><br />
+            <a href="images/jason_and_andrea_01.jpg" rel="lightbox[roadtrip]"><img src="images/jason_and_andrea_01_thumb.jpg" /></a>
+            <a href="images/jason_and_andrea_02.jpg" rel="lightbox[roadtrip]"><img src="images/jason_and_andrea_02_thumb.jpg" /></a><br />
             <a href="images/jason_and_andrea_03.jpg" rel="lightbox[roadtrip]">image #3</a><br />
             <a href="images/jason_and_andrea_04.jpg" rel="lightbox[roadtrip]">image #4</a><br />
             <a href="images/jason_and_andrea_05.jpg" rel="lightbox[roadtrip]">image #5</a><br />

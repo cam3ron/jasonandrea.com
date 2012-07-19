@@ -162,12 +162,19 @@ body {
         color: #3A3938;
 }
 
+#header {
+	text-align: center;
+	width: 715px;
+	margin: 0px auto;
+}
+
 #container {
 /*
 	width: 950px;
 	border: solid red 1px;
 	margin: 0 auto;
 */
+        text-align: center;
 	position: relative;
 	margin:0;
 	padding:0;
@@ -183,6 +190,7 @@ body {
 	position: relative;
 	margin: 0 auto;
 	padding-top: 30px;
+	width: 715px;
 }
 
 /*firefox only*/
@@ -410,9 +418,10 @@ body {
 /* ---------------------- photo-gallery -------------------------------------*/
 
 #photo-gallery {
-	text-align: justify;
-	width: 520px;
-	margin-left: 220px;
+	text-align: center;
+	width: 715px;
+/*	margin-left: 220px; */
+	margin: 15px auto;
 }
 
 #photo-gallery h3 {
