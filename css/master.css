@@ -162,6 +162,7 @@ body {
         color: #3A3938;
 }
 
+
 #header {
 	text-align: center;
 	width: 715px;
@@ -421,7 +422,7 @@ body {
 	text-align: center;
 	width: 715px;
 /*	margin-left: 220px; */
-	margin: 15px auto;
+	margin: 0px auto;
 }
 
 #photo-gallery h3 {
@@ -435,6 +436,21 @@ body {
 	font-size: 11pt;
 	color: #3A3938;
 	margin-top: -15px;
+}
+
+#photo-gallery img {
+        margin-top: 15px;
+	vertical-align: middle;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -khtml-border-radius: 10px;
+        border-radius: 10px;
+	border-width: 5px;
+	border: solid white 5px;
+}
+
+#photo-gallery img.right {
+        margin-left: 80px;
 }
 
 /* ---------------------- registry -------------------------------------*/
