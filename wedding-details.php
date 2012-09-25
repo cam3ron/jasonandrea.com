@@ -28,8 +28,8 @@
     <div id="container">
         <?php include 'includes/header.inc'; ?>
 
-        <div id="body">
-            <div id="venue_photo">
+        <div id="body" style="align: center;">
+            <div id="venue_photo" style="clear: both;">
                 <img src="images/fairmont.png" alt="Fairmont Hotel in San Francisco" />
             </div><!-- welcome_photo -->
 
