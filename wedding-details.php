@@ -72,6 +72,9 @@
                 <strong>Dates</strong>:<br />
                 Oct. 6th, 2012 (Saturday) &amp; Oct. 7th (Sunday)<br />
                 <br />
+                <strong>Time</strong>:<br />
+                Ceremony: 10:30AM PST - Reception End: 4:00PM PST<br />
+                <br />
                 <strong>Reservations</strong>:<br />
                 Reservations can be made by calling (800) 441-1414 and asking for the Templeton- Barnett Wedding Room Block room rates. All reservations require a credit card guarantee and can be cancelled up to 24 hours in advance of check ins.<br />
                 <br />
